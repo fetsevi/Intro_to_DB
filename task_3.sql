@@ -1,3 +1,3 @@
---Display all tables in alx book store
+USE alx_book_store;
 
 SHOW TABLES;
